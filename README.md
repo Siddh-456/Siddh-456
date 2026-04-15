@@ -110,7 +110,7 @@ current_upgrade_path:
 - I enjoy building systems with both frontend polish and backend structure.
 - I am especially strong in student projects that combine theory, logic, and visual explanation.
 - I care about authentication, validation, role-based workflows, and project organization.
-- I like README design and presentation because strong work deserves strong packaging.
+- I work with machine learning models, focusing on data preprocessing, model building, and performance evaluation.
 
 ## GitHub snapshot
 
