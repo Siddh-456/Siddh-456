@@ -1,74 +1,110 @@
 <div align="center">
-
-# 👋 Hi, I'm Siddh Sigatia
-
-**B.Tech Mathematics & Computing · NSUT Delhi '28 · New Delhi, India**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+creative+web+experiences;Generative+art+%26+visual+computing;Learning+DSA+%26+full-stack+dev;Open+to+collabs+%26+internships)](https://git.io/typing-svg)
-
+  <h1>Siddh Sigatia</h1>
+  <p><strong>Full-Stack Developer | C++ Problem Solver | Builder of Visual Learning Tools</strong></p>
+  <p>
+    I enjoy building projects that combine clean UI, practical backend systems, and strong problem-solving.
+    From role-based web apps to algorithm visualizers, I like turning complex ideas into interfaces people can actually use.
+  </p>
+  <p>
+    <a href="https://github.com/Siddh-456">
+      <img src="https://img.shields.io/badge/GitHub-Siddh--456-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Siddh-456" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20DSA%20%7C%20Visualization-0f766e?style=for-the-badge" alt="Focus areas" />
+    <img src="https://img.shields.io/badge/Open%20To-Collaboration%20and%20Learning-ea580c?style=for-the-badge" alt="Open to collaboration and learning" />
+  </p>
 </div>
 
----
+## About Me
 
-### 🧑‍💻 About me
+- I build full-stack projects with a strong focus on structure, usability, and real-world workflows.
+- I enjoy C++ problem solving, algorithm design, and turning theory-heavy topics into interactive visual tools.
+- I care about clean documentation, polished presentation, and projects that feel complete from both the code and user side.
 
-- 🎓 CS undergrad at **NSUT Delhi**, class of 2028 — Mathematics & Computing
-- ✨ Built **[Firefly Visualization](https://github.com/Siddh-456/Firefly-Visualization)** — a generative art simulation with emergent behaviour
-- 🔵 Built **[DFA Minimizer](https://github.com/Siddh-456/DFA-Minimizer)** — a visual Theory of Computation learning tool
-- 📚 Currently deepening skills in **DSA, algorithms**, and full-stack development
-- 🧮 Interested in the intersection of **math, CS, and visual computing**
-- 🌱 Open to collaborations, open-source, and internship opportunities
-- 📬 **siddhusesemail@gmail.com**
+## Quick Highlights
 
----
+| Area | What I Bring |
+| --- | --- |
+| Full-Stack Development | Role-based apps, APIs, backend workflows, and user-focused interfaces |
+| Problem Solving | C++ practice, algorithm design, and logic-heavy project building |
+| Visual Learning Tools | Projects that explain DBMS, Automata, and optimization concepts interactively |
 
-### 🛠 Tech stack
+## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Languages
 
----
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+</p>
 
-### ✨ Featured projects
+### Backend and Database
 
-| Project | Description | Stack |
-|---|---|---|
-| [🌟 Firefly Visualization](https://github.com/Siddh-456/Firefly-Visualization) | Generative art — thousands of fireflies with emergent behaviour on a live canvas | HTML, JS, Canvas API |
-| [🔵 DFA Minimizer](https://github.com/Siddh-456/DFA-Minimizer) | Visual step-by-step DFA minimization tool for ToC students | HTML, JS |
-| [🏠 Hostel Management](https://github.com/Siddh-456/Hostel-Management) | Room allocation and student management system | JavaScript |
-| [🎵 Share Liked Songs](https://github.com/Siddh-456/share-liked-songs) | Export and share your Spotify liked songs | TypeScript, Spotify API |
-| [🔄 Updated LSF](https://github.com/Siddh-456/Updated-LSF) | Latest version of the LSF project | JavaScript |
-| [🎓 NSS](https://github.com/Siddh-456/NSS) | NSS club webpage for NSUT | HTML, CSS |
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0f766e?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-b45309?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
+</p>
 
----
+### Tools and Workflow
 
-### 📊 GitHub stats
+<p>
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Raylib-111111?style=for-the-badge" alt="Raylib" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+## Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Siddh-456&theme=tokyonight&hide_border=true" />
-</div>
+### Hostel Management System
 
----
+Full-stack campus residence platform built for room allocation, guest approvals, complaints, fee tracking, transfers, and admin workflows.
 
-### 🤝 Connect with me
+- Stack: HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT
+- Strength: combines backend logic, multi-role flows, and real operational use cases
+- Repo: [Hostel-Management](https://github.com/Siddh-456/Hostel-Management)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddh-sigatia-7ba95130a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddh-456)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhusesemail@gmail.com)
+### DFA Minimizer
 
----
+Interactive automata theory project that lets users build a DFA in multiple ways and watch the minimization process step by step.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddh-456&style=flat-square&color=6366F1" />
-  <p><sub>Thanks for stopping by — feel free to explore my repos or reach out!</sub></p>
-</div>
+- Stack: HTML, CSS, JavaScript, SVG
+- Strength: turns a theory-heavy topic into a visual learning experience
+- Repo: [DFA-Minimizer](https://github.com/Siddh-456/DFA-Minimizer)
+
+### Enhanced Firefly Algorithm for N-Queens
+
+C++17 and Raylib based visualizer for solving the N-Queens problem using a modified Firefly Algorithm with better convergence and analysis tools.
+
+- Stack: C++17, Raylib, optimization logic, data visualization
+- Strength: mixes algorithm research, performance thinking, and real-time visualization
+
+## What I Like Building
+
+- Full-stack applications with meaningful workflows
+- Interactive tools for DSA, DBMS, and Automata concepts
+- Projects that balance strong logic with a polished front end
+- Documentation that makes technical work feel approachable
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=ea580c&text_color=334155" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=334155" alt="Top languages" />
+</p>
+
+## Current Focus
+
+- Strengthening full-stack development fundamentals
+- Building more visual and portfolio-ready technical projects
+- Improving problem-solving in C++, algorithms, and system design
+
+## Connect
+
+- GitHub: [github.com/Siddh-456](https://github.com/Siddh-456)
