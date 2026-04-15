@@ -115,7 +115,7 @@ current_upgrade_path:
 ## GitHub snapshot
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
