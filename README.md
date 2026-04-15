@@ -123,10 +123,6 @@ current_upgrade_path:
   <img src="https://streak-stats.demolab.com?user=Siddh-456&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddh-456&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ## Activity
 
 <picture>
