@@ -130,9 +130,9 @@ current_upgrade_path:
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://Siddh-456.github.io/Siddh-456/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://Siddh-456.github.io/Siddh-456/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://Siddh-456.github.io/Siddh-456/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ## Current Focus
