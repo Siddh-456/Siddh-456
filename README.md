@@ -97,7 +97,7 @@ current_upgrade_path:
       <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository</a>
     </td>
     <td width="33%" valign="top">
-      <strong>Enhanced Firefly Algorithm for N-Queens</strong><br /><br />
+      <strong>Firefly Algorithm for N Queens</strong><br /><br />
       A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
       <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
