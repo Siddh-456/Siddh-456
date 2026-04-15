@@ -118,6 +118,10 @@ current_upgrade_path:
   <img src="https://streak-stats.demolab.com?user=Siddh-456&hide_border=true&background=00000000&ring=14B8A6&fire=F97316&currStreakLabel=14B8A6&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 </div>
 
+## Activity
+
+![Snake animation](https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake-dark.svg)
+
 ## Current Focus
 
 - Strengthening full-stack architecture and backend thinking
