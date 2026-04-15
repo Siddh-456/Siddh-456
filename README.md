@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Learning%20and%20Collaboration-1d4ed8?style=for-the-badge" alt="Open to learning and collaboration" />
 </div>
 
-<br />
-
 ## System Profile
 
 ```yaml
@@ -90,19 +88,19 @@ current_upgrade_path:
       <strong>Hostel Management System</strong><br /><br />
       A role-based full-stack operations platform for room allocation, guest approvals, fee tracking, complaints, transfers, and admin workflows.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT<br /><br />
-      <a href="https://github.com/Siddh-456/Hostel-Management">View Repository →</a>
+      <a href="https://github.com/Siddh-456/Hostel-Management">View Repository</a>
     </td>
     <td width="33%" valign="top">
       <strong>DFA Minimizer</strong><br /><br />
       An interactive Automata Theory project that lets users build DFAs in multiple ways and follow the minimization process step by step.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, SVG, visualization logic<br /><br />
-      <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository →</a>
+      <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository</a>
     </td>
     <td width="33%" valign="top">
       <strong>Enhanced Firefly Algorithm for N-Queens</strong><br /><br />
       A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
-      <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository →</a>
+      <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
     </td>
   </tr>
 </table>
@@ -114,29 +112,23 @@ current_upgrade_path:
 - I care about authentication, validation, role-based workflows, and project organization.
 - I like README design and presentation because strong work deserves strong packaging.
 
-## GitHub Snapshot
+## GitHub snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Siddh-456&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Siddh-456&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ## Activity
 
-<!-- 
-  SETUP REQUIRED: Run the snake GitHub Action in your profile repo first.
-  See: https://github.com/Platane/snk
-  Once set up, the snake will auto-generate on the gh-pages branch.
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Siddh-456/Siddh-456/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://Siddh-456.github.io/Siddh-456/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://Siddh-456.github.io/Siddh-456/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://Siddh-456.github.io/Siddh-456/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ## Current Focus
@@ -154,11 +146,7 @@ current_upgrade_path:
   <a href="https://github.com/Siddh-456">
     <img src="https://img.shields.io/badge/GitHub-Siddh--456-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:siddh.sigatia.ug24@nsut.ac.in">
-    <img src="https://img.shields.io/badge/Email-siddh.sigatia.ug24%40nsut.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:siddhusesemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-siddhusesemail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,55:0f766e,100:0f172a&height=120&section=footer" alt="Footer" />
