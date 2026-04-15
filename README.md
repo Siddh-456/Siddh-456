@@ -112,11 +112,20 @@ current_upgrade_path:
 - I care about authentication, validation, role-based workflows, and project organization.
 - I like README design and presentation because strong work deserves strong packaging.
 
-## GitHub Snapshot
+## GitHub snapshot
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Siddh-456&hide_border=true&background=00000000&ring=14B8A6&fire=F97316&currStreakLabel=14B8A6&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Siddh-456&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddh-456&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ## Activity
 
