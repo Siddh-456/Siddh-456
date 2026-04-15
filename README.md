@@ -1,110 +1,139 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:f97316&height=220&section=header&text=Siddh%20Sigatia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Builder%20%7C%20C%2B%2B%20Problem%20Solver&descAlignY=60" alt="Header banner" />
+
 <div align="center">
-  <h1>Siddh Sigatia</h1>
-  <p><strong>Full-Stack Developer | C++ Problem Solver | Builder of Visual Learning Tools</strong></p>
-  <p>
-    I enjoy building projects that combine clean UI, practical backend systems, and strong problem-solving.
-    From role-based web apps to algorithm visualizers, I like turning complex ideas into interfaces people can actually use.
-  </p>
-  <p>
-    <a href="https://github.com/Siddh-456">
-      <img src="https://img.shields.io/badge/GitHub-Siddh--456-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Siddh-456" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20DSA%20%7C%20Visualization-0f766e?style=for-the-badge" alt="Focus areas" />
-    <img src="https://img.shields.io/badge/Open%20To-Collaboration%20and%20Learning-ea580c?style=for-the-badge" alt="Open to collaboration and learning" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=920&lines=Building+role-based+web+apps+with+strong+backend+logic;Turning+DBMS+and+Automata+concepts+into+interactive+tools;Exploring+algorithms%2C+optimization%2C+and+clean+developer+craft" alt="Typing intro" />
 </div>
 
-## About Me
+<div align="center">
+  <a href="https://github.com/Siddh-456">
+    <img src="https://img.shields.io/badge/GitHub-Siddh--456-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Siddh-456" />
+  </a>
+  <img src="https://img.shields.io/badge/Profile-Computer%20Science%20Student-0f766e?style=for-the-badge" alt="Computer Science Student" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Algorithms%20%7C%20Visualization-ea580c?style=for-the-badge" alt="Focus areas" />
+  <img src="https://img.shields.io/badge/Open%20To-Learning%20and%20Collaboration-1d4ed8?style=for-the-badge" alt="Open to learning and collaboration" />
+</div>
 
-- I build full-stack projects with a strong focus on structure, usability, and real-world workflows.
-- I enjoy C++ problem solving, algorithm design, and turning theory-heavy topics into interactive visual tools.
-- I care about clean documentation, polished presentation, and projects that feel complete from both the code and user side.
+## System Profile
 
-## Quick Highlights
+```yaml
+name: Siddh Sigatia
+role: Computer Science Student
+builder_style:
+  - full-stack web applications
+  - C++ problem solving
+  - technical visualization projects
+  - documentation-first presentation
+current_upgrade_path:
+  - stronger backend design
+  - better system thinking
+  - more polished portfolio projects
+```
 
-| Area | What I Bring |
-| --- | --- |
-| Full-Stack Development | Role-based apps, APIs, backend workflows, and user-focused interfaces |
-| Problem Solving | C++ practice, algorithm design, and logic-heavy project building |
-| Visual Learning Tools | Projects that explain DBMS, Automata, and optimization concepts interactively |
+## Stack Matrix
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="24%"><strong>Core Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Web and APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data and Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/JWT-BA4A00?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/bcryptjs-7C2D12?style=for-the-badge" alt="bcryptjs" />
+      <img src="https://img.shields.io/badge/express--validator-1D4ED8?style=for-the-badge" alt="express-validator" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CS Strengths</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Structures-1E293B?style=for-the-badge" alt="Data Structures" />
+      <img src="https://img.shields.io/badge/Algorithms-0F766E?style=for-the-badge" alt="Algorithms" />
+      <img src="https://img.shields.io/badge/DBMS-7C3AED?style=for-the-badge" alt="DBMS" />
+      <img src="https://img.shields.io/badge/OOP-1D4ED8?style=for-the-badge" alt="OOP" />
+      <img src="https://img.shields.io/badge/Automata%20Theory-B45309?style=for-the-badge" alt="Automata Theory" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+      <img src="https://img.shields.io/badge/Raylib-111111?style=for-the-badge" alt="Raylib" />
+    </td>
+  </tr>
+</table>
 
-### Languages
+## Featured Builds
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Hostel Management System</strong><br /><br />
+      A role-based full-stack operations platform for room allocation, guest approvals, fee tracking, complaints, transfers, and admin workflows.<br /><br />
+      <strong>Stack:</strong> HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT<br /><br />
+      <a href="https://github.com/Siddh-456/Hostel-Management">View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>DFA Minimizer</strong><br /><br />
+      An interactive Automata Theory project that lets users build DFAs in multiple ways and follow the minimization process step by step.<br /><br />
+      <strong>Stack:</strong> HTML, CSS, JavaScript, SVG, visualization logic<br /><br />
+      <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Enhanced Firefly Algorithm for N-Queens</strong><br /><br />
+      A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem.<br /><br />
+      <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
+      <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
+    </td>
+  </tr>
+</table>
 
-### Backend and Database
+## Engineering Signals
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0f766e?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-b45309?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
-</p>
-
-### Tools and Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Raylib-111111?style=for-the-badge" alt="Raylib" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-## Featured Projects
-
-### Hostel Management System
-
-Full-stack campus residence platform built for room allocation, guest approvals, complaints, fee tracking, transfers, and admin workflows.
-
-- Stack: HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT
-- Strength: combines backend logic, multi-role flows, and real operational use cases
-- Repo: [Hostel-Management](https://github.com/Siddh-456/Hostel-Management)
-
-### DFA Minimizer
-
-Interactive automata theory project that lets users build a DFA in multiple ways and watch the minimization process step by step.
-
-- Stack: HTML, CSS, JavaScript, SVG
-- Strength: turns a theory-heavy topic into a visual learning experience
-- Repo: [DFA-Minimizer](https://github.com/Siddh-456/DFA-Minimizer)
-
-### Enhanced Firefly Algorithm for N-Queens
-
-C++17 and Raylib based visualizer for solving the N-Queens problem using a modified Firefly Algorithm with better convergence and analysis tools.
-
-- Stack: C++17, Raylib, optimization logic, data visualization
-- Strength: mixes algorithm research, performance thinking, and real-time visualization
-
-## What I Like Building
-
-- Full-stack applications with meaningful workflows
-- Interactive tools for DSA, DBMS, and Automata concepts
-- Projects that balance strong logic with a polished front end
-- Documentation that makes technical work feel approachable
+- I enjoy building systems with both frontend polish and backend structure.
+- I am especially strong in student projects that combine theory, logic, and visual explanation.
+- I care about authentication, validation, role-based workflows, and project organization.
+- I like README design and presentation because strong work deserves strong packaging.
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=ea580c&text_color=334155" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh-456&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=334155" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Siddh-456&hide_border=true&background=00000000&ring=14B8A6&fire=F97316&currStreakLabel=14B8A6&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+</div>
 
 ## Current Focus
 
-- Strengthening full-stack development fundamentals
-- Building more visual and portfolio-ready technical projects
-- Improving problem-solving in C++, algorithms, and system design
+- Strengthening full-stack architecture and backend thinking
+- Building portfolio projects that feel more premium and production-style
+- Improving C++ problem solving, algorithms, and system design depth
 
 ## Connect
 
-- GitHub: [github.com/Siddh-456](https://github.com/Siddh-456)
+<div align="center">
+  <a href="https://www.linkedin.com/in/siddh-sigatia-7ba95130a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddh%20Sigatia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Siddh-456">
+    <img src="https://img.shields.io/badge/GitHub-Siddh--456-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:siddhusesemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-siddhusesemail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
