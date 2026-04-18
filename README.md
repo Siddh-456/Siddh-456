@@ -111,7 +111,7 @@ current_upgrade_path:
   <tr>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Hostel Management System</strong><br /><br />
-      A role based full stack operations platform for room allocation, fee tracking, complaints and admin workflows. Features JWT based multi role authentication and a dynamic dashboard for real time occupancy and payment tracking.<br /><br />
+      A role based full stack operations platform for room allocation, fee tracking, complaints and admin workflows. Features JWT based multi role authentication for real time occupancy and payment tracking.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT<br /><br />
       <br />
       <a href="https://github.com/Siddh-456/Hostel-Management">View Repository</a>
@@ -125,7 +125,7 @@ current_upgrade_path:
     </td>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Firefly Algo for N Queens</strong><br /><br />
-      A C++17 and Raylib visualizer focused on optimization, convergence analysis and algorithm behavior for the N-Queens problem. Includes animated queen movement, convergence graphs and fitness heatmaps.<br /><br />
+      A C++17 and Raylib visualizer focused on optimization, convergence analysis for the N-Queens problem. Includes animated queen movement, convergence graphs and fitness heatmaps.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
       <br />
       <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
