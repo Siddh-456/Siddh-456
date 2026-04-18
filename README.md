@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:f97316&height=220&section=header&text=Siddh%20Sigatia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Builder%20%7C%20ML%20Practitioner%20%7C%20C%2B%2B%20Problem%20Solver&descAlignY=60" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:f97316&height=220&section=header&text=Siddh%20Sigatia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Builder%20%7C%20ML%20Enthusiast&descAlignY=60" alt="Header banner" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=920&lines=Building+role-based+web+apps+with+strong+backend+logic;Training+deep+learning+models+for+computer+vision;Turning+DBMS+and+Automata+concepts+into+interactive+tools;Exploring+algorithms%2C+optimization%2C+and+clean+developer+craft" alt="Typing intro" />
