@@ -145,7 +145,7 @@ current_upgrade_path:
 - I train and deploy deep learning models for real-world computer vision tasks.
 - I am especially strong in student projects that combine theory, logic, and visual explanation.
 - I care about authentication, validation, role-based workflows, and project organisation.
-- I work with machine learning pipelines — from data preprocessing and augmentation to model training, evaluation, and REST API deployment.
+- I work with machine learning pipelines from data preprocessing to model training, evaluation, and REST API deployment.
 
 ## GitHub Snapshot
 
