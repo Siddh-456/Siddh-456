@@ -23,7 +23,7 @@ builder_style:
   - deep learning and computer vision
   - C++ problem solving
   - technical visualization projects
-  - documentation-first presentation
+  - documentation first presentation
 current_upgrade_path:
   - stronger backend design and system thinking
   - deep learning model training and deployment
@@ -105,29 +105,31 @@ current_upgrade_path:
   </tr>
 </table>
 
-## Featured Builds
-
+Featured Builds
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" style="padding: 16px;">
       <strong>Hostel Management System</strong><br /><br />
       A role-based full-stack operations platform for room allocation, guest approvals, fee tracking, complaints, transfers, and admin workflows.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT<br /><br />
+      <br />
       <a href="https://github.com/Siddh-456/Hostel-Management">View Repository</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" style="padding: 16px;">
       <strong>DFA Minimizer</strong><br /><br />
       An interactive Automata Theory project that lets users build DFAs in multiple ways and follow the minimization process step by step.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, SVG, visualization logic<br /><br />
+      <br />
       <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" style="padding: 16px;">
       <strong>Firefly Algorithm for N Queens</strong><br /><br />
       A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
+      <br />
       <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
     </td>
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" style="padding: 16px;">
       <strong>Lane Detection Studio</strong><br /><br />
       A real-time lane detection system using deep learning with PyTorch and Flask, featuring binary and instance segmentation for autonomous driving. Trained on the TuSimple benchmark with ENet, U-Net, and DeepLabv3+ backbones.<br /><br />
       <strong>Stack:</strong> Python, PyTorch, OpenCV, Flask, Docker<br /><br />
