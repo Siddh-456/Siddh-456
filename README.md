@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:f97316&height=220&section=header&text=Siddh%20Sigatia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Builder%20%7C%20C%2B%2B%20Problem%20Solver&descAlignY=60" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:f97316&height=220&section=header&text=Siddh%20Sigatia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Builder%20%7C%20ML%20Practitioner%20%7C%20C%2B%2B%20Problem%20Solver&descAlignY=60" alt="Header banner" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=920&lines=Building+role-based+web+apps+with+strong+backend+logic;Turning+DBMS+and+Automata+concepts+into+interactive+tools;Exploring+algorithms%2C+optimization%2C+and+clean+developer+craft" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=920&lines=Building+role-based+web+apps+with+strong+backend+logic;Training+deep+learning+models+for+computer+vision;Turning+DBMS+and+Automata+concepts+into+interactive+tools;Exploring+algorithms%2C+optimization%2C+and+clean+developer+craft" alt="Typing intro" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-Siddh--456-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Siddh-456" />
   </a>
   <img src="https://img.shields.io/badge/Profile-Computer%20Science%20Student-0f766e?style=for-the-badge" alt="Computer Science Student" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Algorithms%20%7C%20Visualization-ea580c?style=for-the-badge" alt="Focus areas" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20ML%20%7C%20Algorithms%20%7C%20Visualization-ea580c?style=for-the-badge" alt="Focus areas" />
   <img src="https://img.shields.io/badge/Open%20To-Learning%20and%20Collaboration-1d4ed8?style=for-the-badge" alt="Open to learning and collaboration" />
 </div>
 
@@ -20,12 +20,13 @@ name: Siddh Sigatia
 role: Computer Science Student
 builder_style:
   - full-stack web applications
+  - deep learning and computer vision
   - C++ problem solving
   - technical visualization projects
   - documentation-first presentation
 current_upgrade_path:
-  - stronger backend design
-  - better system thinking
+  - stronger backend design and system thinking
+  - deep learning model training and deployment
   - more polished portfolio projects
 ```
 
@@ -36,9 +37,30 @@ current_upgrade_path:
     <td width="24%"><strong>Core Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=for-the-badge" alt="Computer Vision" />
+      <img src="https://img.shields.io/badge/Instance%20Segmentation-7C3AED?style=for-the-badge" alt="Instance Segmentation" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-EA580C?style=for-the-badge" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/scikit--image-F7931E?style=for-the-badge" alt="scikit-image" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML Concepts</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Focal%20Loss-1E293B?style=for-the-badge" alt="Focal Loss" />
+      <img src="https://img.shields.io/badge/Discriminative%20Loss-0F766E?style=for-the-badge" alt="Discriminative Loss" />
+      <img src="https://img.shields.io/badge/ENet%20%7C%20UNet%20%7C%20DeepLabv3%2B-7C3AED?style=for-the-badge" alt="ENet UNet DeepLabv3+" />
+      <img src="https://img.shields.io/badge/Data%20Augmentation-B45309?style=for-the-badge" alt="Data Augmentation" />
+      <img src="https://img.shields.io/badge/Model%20Evaluation-1D4ED8?style=for-the-badge" alt="Model Evaluation" />
     </td>
   </tr>
   <tr>
@@ -46,6 +68,7 @@ current_upgrade_path:
     <td>
       <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge" alt="REST APIs" />
       <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
     </td>
@@ -56,7 +79,8 @@ current_upgrade_path:
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/JWT-BA4A00?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/bcryptjs-7C2D12?style=for-the-badge" alt="bcryptjs" />
-      <img src="https://img.shields.io/badge/express--validator-1D4ED8?style=for-the-badge" alt="express-validator" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
   </tr>
   <tr>
@@ -70,12 +94,13 @@ current_upgrade_path:
     </td>
   </tr>
   <tr>
-    <td><strong>Tools</strong></td>
+    <td><strong>Tools and Deployment</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Raylib-111111?style=for-the-badge" alt="Raylib" />
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     </td>
   </tr>
 </table>
@@ -84,23 +109,29 @@ current_upgrade_path:
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <strong>Hostel Management System</strong><br /><br />
       A role-based full-stack operations platform for room allocation, guest approvals, fee tracking, complaints, transfers, and admin workflows.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT<br /><br />
       <a href="https://github.com/Siddh-456/Hostel-Management">View Repository</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <strong>DFA Minimizer</strong><br /><br />
       An interactive Automata Theory project that lets users build DFAs in multiple ways and follow the minimization process step by step.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, SVG, visualization logic<br /><br />
       <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <strong>Firefly Algorithm for N Queens</strong><br /><br />
       A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
       <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Lane Detection Studio</strong><br /><br />
+      A real-time lane detection system using deep learning with PyTorch and Flask, featuring binary and instance segmentation for autonomous driving. Trained on the TuSimple benchmark with ENet, U-Net, and DeepLabv3+ backbones.<br /><br />
+      <strong>Stack:</strong> Python, PyTorch, OpenCV, Flask, Docker<br /><br />
+      <a href="https://github.com/Siddh-456/Lane-Detection">View Repository</a>
     </td>
   </tr>
 </table>
@@ -108,11 +139,12 @@ current_upgrade_path:
 ## Engineering Signals
 
 - I enjoy building systems with both frontend polish and backend structure.
+- I train and deploy deep learning models for real-world computer vision tasks.
 - I am especially strong in student projects that combine theory, logic, and visual explanation.
-- I care about authentication, validation, role-based workflows, and project organization.
-- I work with machine learning models, focusing on data preprocessing, model building, and performance evaluation.
+- I care about authentication, validation, role-based workflows, and project organisation.
+- I work with machine learning pipelines — from data preprocessing and augmentation to model training, evaluation, and REST API deployment.
 
-## GitHub snapshot
+## GitHub Snapshot
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddh-456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -134,6 +166,7 @@ current_upgrade_path:
 ## Current Focus
 
 - Strengthening full-stack architecture and backend thinking
+- Building and deploying deep learning models for computer vision
 - Building portfolio projects that feel more premium and production-style
 - Improving C++ problem solving, algorithms, and system design depth
 
