@@ -105,33 +105,32 @@ current_upgrade_path:
   </tr>
 </table>
 
-Featured Builds
 <table>
   <tr>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Hostel Management System</strong><br /><br />
-      A role-based full-stack operations platform for room allocation, guest approvals, fee tracking, complaints, transfers, and admin workflows.<br /><br />
+      A role-based full-stack operations platform for room allocation, guest approvals, fee tracking, complaints, transfers, and admin workflows. It supports multi-role authentication with JWT, RESTful API design, and a dynamic admin dashboard for real-time occupancy and payment management.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT<br /><br />
       <br />
       <a href="https://github.com/Siddh-456/Hostel-Management">View Repository</a>
     </td>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>DFA Minimizer</strong><br /><br />
-      An interactive Automata Theory project that lets users build DFAs in multiple ways and follow the minimization process step by step.<br /><br />
+      An interactive Automata Theory project that lets users build DFAs in multiple ways and follow the minimization process step by step. Supports draw mode with pen gesture recognition, Myhill-Nerode theorem visualization, and a theory panel explaining each reduction step in real time.<br /><br />
       <strong>Stack:</strong> HTML, CSS, JavaScript, SVG, visualization logic<br /><br />
       <br />
       <a href="https://github.com/Siddh-456/DFA-Minimizer">View Repository</a>
     </td>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Firefly Algo for N Queens</strong><br /><br />
-      A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem.<br /><br />
+      A C++17 and Raylib visualizer focused on optimization, convergence analysis, and algorithm behavior for the N-Queens problem. Features animated queen movement, live convergence graphs, and fitness heatmaps to illustrate swarm intelligence across iterations.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
       <br />
       <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
     </td>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Lane Detection Studio</strong><br /><br />
-      A real-time lane detection system using deep learning with PyTorch and Flask, featuring binary and instance segmentation for autonomous driving. Trained on the TuSimple benchmark with ENet, U-Net, and DeepLabv3+ backbones.<br /><br />
+      A real time lane detection system using deep learning with PyTorch and Flask, featuring binary and instance segmentation for autonomous driving. Trained on the TuSimple benchmark with ENet, U-Net and DeepLabv3+ backbones.<br /><br />
       <strong>Stack:</strong> Python, PyTorch, OpenCV, Flask, Docker<br /><br />
       <a href="https://github.com/Siddh-456/Lane-Detection">View Repository</a>
     </td>
