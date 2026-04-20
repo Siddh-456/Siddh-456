@@ -133,7 +133,7 @@ current_upgrade_path:
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Lane Detection Studio</strong><br /><br />
       A real time lane detection system using deep learning with PyTorch and Flask, featuring binary and instance segmentation for autonomous driving. Trained on the TuSimple benchmark with ENet, U-Net and DeepLabv3+ backbones.<br /><br />
-      <strong>Stack:</strong> Python, PyTorch, OpenCV, Flask, Docker<br /><br />
+      <strong>Stack:</strong> Python, PyTorch, OpenCV, Flask, Dockerfile<br /><br />
       <a href="https://github.com/Siddh-456/Lane-Detection">View Repository</a>
     </td>
   </tr>
