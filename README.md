@@ -125,7 +125,7 @@ current_upgrade_path:
     </td>
     <td width="25%" valign="top" style="padding: 16px;">
       <strong>Firefly Algo for N Queens</strong><br /><br />
-      A C++17 and Raylib visualizer focused on optimization, convergence analysis for the N-Queens problem. Includes animated queen movement, convergence graphs and fitness heatmaps.<br /><br />
+      A C++17 and Raylib visualizer using OpenGL and SFML to solve N-Queens via an enhanced Firefly Algorithm. Features animated queen movement, convergence graphs, and fitness heatmaps.<br /><br />
       <strong>Stack:</strong> C++17, Raylib, discrete optimization, data visualization<br /><br />
       <br />
       <a href="https://github.com/Siddh-456/Firefly-Visualization">View Repository</a>
