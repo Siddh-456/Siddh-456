@@ -174,6 +174,11 @@ current_upgrade_path:
 - Improving C++ problem solving, algorithms, and system design depth
 
 ## Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/siddh-sigatia-7ba95130a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddh%20Sigatia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/Siddh-456">
     <img src="https://img.shields.io/badge/GitHub-Siddh--456-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
